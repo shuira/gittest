@@ -1,5 +1,5 @@
 public class Calculator {
-    public string  name = "Java";
+    public string  name = "Java or C#";
     
     public int add(int a, int b) {
         return a + b;

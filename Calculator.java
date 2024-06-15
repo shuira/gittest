@@ -1,4 +1,6 @@
 public class Calculator {
+    public string  name = "c#";
+    
     public int add(int a, int b) {
         return a + b;
     }
